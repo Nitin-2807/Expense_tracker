@@ -1,0 +1,32 @@
+# Environment
+.env
+.venv/
+venv/
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Database — never commit the SQLite file (contains user data)
+expense_tracker.db
+*.db
+
+# Frontend
+frontend/dist/
+frontend/.vite/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backup / cache
+*.bak
+*.log
+.claude/
+.agents/
