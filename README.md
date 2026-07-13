@@ -205,12 +205,6 @@ The seed script creates realistic data for January–July 2026:
 
 ---
 
-## Screenshots
-
-_Add screenshots here: Dashboard, Transactions list, Category management, Profile page_
-
----
-
 ## License
 
 MIT
