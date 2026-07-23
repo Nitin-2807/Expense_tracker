@@ -2,6 +2,14 @@
 
 A full-stack personal finance tracking app with **Clerk authentication**, **multi-user support**, and a modern responsive UI.
 
+## 🚀 Live Demo
+
+- **Frontend:** https://expense-tracker-beryl-one-23.vercel.app
+- **Backend API:** https://expense-tracker-backend-1qym.onrender.com
+
+> **Note:** The backend is hosted on Render's free tier, so the first request may take 30–60 seconds while the service wakes up.
+
+
 ![Tech Stack](https://img.shields.io/badge/Frontend-React_19_•_TypeScript_6_•_Tailwind_CSS_3-blue)
 ![Tech Stack](https://img.shields.io/badge/Backend-FastAPI_•_SQLAlchemy_•_SQLite-green)
 ![Auth](https://img.shields.io/badge/Auth-Clerk_•_JWT-purple)
